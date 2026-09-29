@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkPath": "classtime/releases/app-release.apk",
+  "updateContent": "1. 修复xxx\n2. 新增xxx",
+  "forceUpdate": false
+}
