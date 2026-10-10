@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionName": "1.0.0",
   "apkPath": "https://github.com/leiyanSky/classtime/releases/download/1.0.0/app-debug.apk",
   "updateContent": "1. 修复xxx\n2. 新增xxx",
   "forceUpdate": false
